@@ -4,6 +4,7 @@ public class CompetitiveSwimmer
     int date;
 
 
+
     public void results()
     {
         System.out.println(bestSwimmingResults + date);
