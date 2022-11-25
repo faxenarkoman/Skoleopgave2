@@ -1,0 +1,8 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="OPEN_SSH" host="git@github.com:krm-kea/Dat22b_2022115_Bakery.git" id="a621e62c-d69a-459c-b547-75ea819116b4" port="22" nameFormat="DESCRIPTIVE" username="Arthur" useOpenSSHConfig="true" />
+      <sshConfig host="kea" id="68c5640c-9256-4889-a384-5c1f97af6468" keyPath="git@github.com:krm-kea/Dat22b_2022115_Bakery.git" port="22" nameFormat="DESCRIPTIVE" username="Arthur" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</application>
