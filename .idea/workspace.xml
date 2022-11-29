@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d66c3a84-4e78-4c10-bbf8-eb7ebcdd5516" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Skoleproject2/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Skoleproject2/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Skoleproject2/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Skoleproject2/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Skoleproject2/Skoleproject2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Skoleproject2/out/production/Skoleproject2/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Skoleproject2/src/Admin.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Skoleproject2/src/Excerciser.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Skoleproject2/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Skoleproject2/src/Swimmer.java" beforeDir="false" />
-    </list>
+    <list default="true" id="d66c3a84-4e78-4c10-bbf8-eb7ebcdd5516" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,6 +53,7 @@
       <workItem from="1669372624820" duration="12000" />
       <workItem from="1669374636805" duration="887000" />
       <workItem from="1669380098157" duration="6000" />
+      <workItem from="1669384347575" duration="624000" />
     </task>
     <servers />
   </component>
