@@ -4,17 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d66c3a84-4e78-4c10-bbf8-eb7ebcdd5516" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Skoleproject2/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Skoleproject2/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Skoleproject2/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Skoleproject2/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Skoleproject2/Skoleproject2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Skoleproject2/out/production/Skoleproject2/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Skoleproject2/src/Admin.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Skoleproject2/src/Excerciser.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Skoleproject2/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Skoleproject2/src/Swimmer.java" beforeDir="false" />
+    <list default="true" id="d66c3a84-4e78-4c10-bbf8-eb7ebcdd5516" name="Changes" comment="Nyt">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Skoleproject2/src/CompetitiveSwimmer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Skoleproject2/src/CompetitiveSwimmer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Skoleproject2/src/Swimmer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Skoleproject2/src/Swimmer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +44,21 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Skoleopgave2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Skoleopgave2" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -64,7 +72,19 @@
       <workItem from="1669372624820" duration="12000" />
       <workItem from="1669374636805" duration="887000" />
       <workItem from="1669380098157" duration="6000" />
+      <workItem from="1669383846800" duration="8000" />
+      <workItem from="1669384410416" duration="33000" />
+      <workItem from="1669384463361" duration="12000" />
+      <workItem from="1669384504250" duration="2746000" />
     </task>
+    <task id="LOCAL-00001" summary="Nyt">
+      <created>1669714950224</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669714950227</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -80,5 +100,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Nyt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Nyt" />
   </component>
 </project>

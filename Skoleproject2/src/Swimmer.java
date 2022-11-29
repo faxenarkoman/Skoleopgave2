@@ -6,6 +6,10 @@ public class Swimmer
     int age;
     String name;
     String formOfActivity;
+    boolean activeSwimmer;
+    boolean junior;
+
+
 
     public Swimmer(int membership, int age, String name, String formOfActivity)
     {
@@ -14,4 +18,6 @@ public class Swimmer
         this.name = name;
         this.formOfActivity = formOfActivity;
     }
+
+
 }
